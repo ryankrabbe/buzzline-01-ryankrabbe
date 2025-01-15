@@ -7,3 +7,71 @@
 2025-01-15 09:51:35.556 | INFO     | __main__:main:68 - START...
 2025-01-15 09:51:35.558 | INFO     | __main__:main:74 - Reading file located at logs\project_log.log.
 2025-01-15 09:51:42.100 | INFO     | __main__:main:85 - END.....
+2025-01-15 10:03:03.249 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-15 10:03:03.249 | INFO     | __main__:main:106 - START producer...
+2025-01-15 10:03:03.250 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-15 10:03:03.250 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-15 10:03:03.250 | INFO     | __main__:main:114 - I just looked a restaurant! It was calm.
+2025-01-15 10:03:06.251 | INFO     | __main__:main:114 - I just looked a video! It was helpful.
+2025-01-15 10:03:09.253 | INFO     | __main__:main:114 - I just looked a video! It was calm.
+2025-01-15 10:03:12.255 | INFO     | __main__:main:114 - I just played a drive! It was large.
+2025-01-15 10:03:15.256 | INFO     | __main__:main:114 - I just played a video! It was calm.
+2025-01-15 10:03:18.257 | INFO     | __main__:main:114 - I just looked a drive! It was large.
+2025-01-15 10:03:21.259 | INFO     | __main__:main:114 - I just ran a drive! It was helpful.
+2025-01-15 10:03:24.260 | INFO     | __main__:main:114 - I just played a video! It was large.
+2025-01-15 10:03:27.261 | INFO     | __main__:main:114 - I just ran a game! It was helpful.
+2025-01-15 10:03:37.786 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-15 10:03:37.787 | INFO     | __main__:main:106 - START producer...
+2025-01-15 10:03:37.788 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-15 10:03:37.788 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-15 10:03:37.788 | INFO     | __main__:main:114 - I just ran a restaurant! It was brave.
+2025-01-15 10:03:40.789 | INFO     | __main__:main:114 - I just ran a video! It was helpful.
+2025-01-15 10:03:43.791 | INFO     | __main__:main:114 - I just cried a restaurant! It was helpful.
+2025-01-15 10:03:46.792 | INFO     | __main__:main:114 - I just looked a drive! It was happy.
+2025-01-15 10:03:48.718 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-15 10:03:48.718 | INFO     | __main__:main:106 - START producer...
+2025-01-15 10:03:48.718 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-15 10:03:48.720 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-15 10:03:48.720 | INFO     | __main__:main:114 - I just laughed a hike! It was happy.
+2025-01-15 10:03:49.793 | INFO     | __main__:main:114 - I just laughed a restaurant! It was helpful.
+2025-01-15 10:03:51.721 | INFO     | __main__:main:114 - I just laughed a restaurant! It was happy.
+2025-01-15 10:03:52.794 | INFO     | __main__:main:114 - I just laughed a drive! It was large.
+2025-01-15 10:03:54.723 | INFO     | __main__:main:114 - I just laughed a restaurant! It was large.
+2025-01-15 10:03:55.795 | INFO     | __main__:main:114 - I just played a video! It was large.
+2025-01-15 10:03:57.724 | INFO     | __main__:main:114 - I just looked a hike! It was brave.
+2025-01-15 10:03:58.796 | INFO     | __main__:main:114 - I just ran a game! It was happy.
+2025-01-15 10:04:00.725 | INFO     | __main__:main:114 - I just played a game! It was brave.
+2025-01-15 10:04:01.797 | INFO     | __main__:main:114 - I just cried a game! It was large.
+2025-01-15 10:16:09.594 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-15 10:16:09.594 | INFO     | __main__:main:106 - START producer...
+2025-01-15 10:16:09.596 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-15 10:16:09.596 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-15 10:16:09.596 | INFO     | __main__:main:114 - Ryan just cried a helpful a drive!
+2025-01-15 10:16:12.597 | INFO     | __main__:main:114 - Ryan just looked a calm a restaurant!
+2025-01-15 10:16:15.598 | INFO     | __main__:main:114 - Ryan just laughed a funny a hike!
+2025-01-15 10:16:18.599 | INFO     | __main__:main:114 - Ryan just played a large a drive!
+2025-01-15 10:16:21.601 | INFO     | __main__:main:114 - Ryan just played a calm a drive!
+2025-01-15 10:16:24.602 | INFO     | __main__:main:114 - Ryan just looked a funny a game!
+2025-01-15 10:16:27.604 | INFO     | __main__:main:114 - Ryan just ran a large a restaurant!
+2025-01-15 10:16:30.605 | INFO     | __main__:main:114 - Ryan just looked a funny a hike!
+2025-01-15 10:16:33.607 | INFO     | __main__:main:114 - Ryan just cried a large a restaurant!
+2025-01-15 10:16:36.608 | INFO     | __main__:main:114 - Ryan just ran a large a restaurant!
+2025-01-15 10:16:39.609 | INFO     | __main__:main:114 - Ryan just cried a happy a game!
+2025-01-15 10:16:42.610 | INFO     | __main__:main:114 - Ryan just laughed a large a video!
+2025-01-15 10:16:45.612 | INFO     | __main__:main:114 - Ryan just played a calm a restaurant!
+2025-01-15 10:16:47.091 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-15 10:16:47.091 | INFO     | __main__:main:68 - START...
+2025-01-15 10:16:47.092 | INFO     | __main__:main:74 - Reading file located at logs\project_log.log.
+2025-01-15 10:16:48.613 | INFO     | __main__:main:114 - Ryan just laughed a funny a video!
+2025-01-15 10:16:51.614 | INFO     | __main__:main:114 - Ryan just laughed a happy a hike!
+2025-01-15 10:16:54.616 | INFO     | __main__:main:114 - Ryan just looked a helpful a drive!
+2025-01-15 10:16:57.618 | INFO     | __main__:main:114 - Ryan just laughed a happy a drive!
+2025-01-15 10:17:00.620 | INFO     | __main__:main:114 - Ryan just looked a calm a hike!
+2025-01-15 10:17:03.621 | INFO     | __main__:main:114 - Ryan just looked a funny a game!
+2025-01-15 10:17:06.622 | INFO     | __main__:main:114 - Ryan just looked a large a game!
+2025-01-15 10:17:09.623 | INFO     | __main__:main:114 - Ryan just played a large a drive!
+2025-01-15 10:17:12.625 | INFO     | __main__:main:114 - Ryan just laughed a calm a hike!
+2025-01-15 10:17:15.625 | INFO     | __main__:main:114 - Ryan just played a large a video!
+2025-01-15 10:17:18.626 | INFO     | __main__:main:114 - Ryan just laughed a helpful a restaurant!
+2025-01-15 10:17:21.628 | INFO     | __main__:main:114 - Ryan just laughed a helpful a drive!
+2025-01-15 10:17:28.235 | INFO     | __main__:main:85 - END.....
