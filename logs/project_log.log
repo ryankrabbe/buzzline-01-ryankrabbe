@@ -1,0 +1,9 @@
+2025-01-15 09:51:15.320 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-15 09:51:15.321 | INFO     | __main__:main:106 - START producer...
+2025-01-15 09:51:15.321 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-15 09:51:15.321 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-15 09:51:15.322 | INFO     | __main__:main:114 - I just shared a movie! It was weird.
+2025-01-15 09:51:35.556 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-15 09:51:35.556 | INFO     | __main__:main:68 - START...
+2025-01-15 09:51:35.558 | INFO     | __main__:main:74 - Reading file located at logs\project_log.log.
+2025-01-15 09:51:42.100 | INFO     | __main__:main:85 - END.....
